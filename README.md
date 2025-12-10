@@ -2,7 +2,6 @@
 
 ### ✍🏻 Contact
 <p>
-  <a href="https://www.instagram.com/kjh99723/" target="_blank"><img src="https://img.shields.io/badge/kjh99723-faaca8?style=flat-square&logo=instagram&logoColor=white"/></a>
   <a href="mailto:kjh99723@gmail.com" target="_blank"><img src="https://img.shields.io/badge/kjh99723@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
   <a href="mailto:infenitel@naver.com" target="_blank"><img src="https://img.shields.io/badge/infenitel@naver.com-8B89CC?style=flat-square&logo=Mail.Ru&logoColor=white"/></a>
 </p>
